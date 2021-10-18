@@ -57,6 +57,7 @@ Here's where I want to have info on ringtails.
 ![Ringtail cat courtesy of VA zoo](img/ringtail_cat.jpg)
 We'll also learn about `knitr::include_graphics()`
 
+Add a few fun facts: They can rotate their hind feet 180 degrees which makes them really awesome at climbing. They're not endangered, not even borderline, but very elusive. Closely related to raccoons, so sometimes people just think they are small, scrawny raccoons!
 ###
 
 ----------
